@@ -27,7 +27,7 @@ El trabajo analiza la seguridad de un servidor a partir del resultado de un esca
 | Entregable | Descripción |
 |---|---|
 | `informe.pdf` | Informe escrito, con la estructura de la plantilla de la cátedra |
-| `video.mp4` | Video explicativo de 10 a 15 minutos, con participación de las dos alumnas |
+| `video.mp4` | Video explicativo: https://drive.google.com/file/d/11QNjgPdP_lJdN4r5_A16tRa4NISt7EZY/view?usp=sharing |
 | `presentacion.pptx` | Diapositivas utilizadas durante el video |
 | `README.md` | Este archivo |
 
